@@ -1,0 +1,29 @@
+.row{
+    height: 4px !important;
+}
+
+.table{
+    width: 80% !important;
+    margin-left: 10%;
+}
+.head{
+    background-color: aquamarine !important;
+    color: chocolate !important;
+    font-size: 20px !important;
+}
+.add{
+    margin-top: 20px;
+    margin-left: 10%;
+}
+.add1{
+    padding: 10px !important;
+}
+.bton{
+    padding: 15px !important;
+    margin-top: 10px !important;
+}
+.heading{
+    margin-left: 10%;
+    color: burlywood;
+    font-family:   'Segoe UI';
+}
